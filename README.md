@@ -3,7 +3,7 @@
   <table border="1">
     <tr>
       <td align="center">
-        <sub>Who needs a comrade like that?</sub>
+        <sub>"Who needs a comrade like that?"</sub>
       </td>
     </tr>
   </table>
